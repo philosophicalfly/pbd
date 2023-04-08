@@ -6,3 +6,9 @@ Course_info.csv
 .ipynb_checkpoints/
 
 myenv/
+
+TreatedComments.csv
+
+X_resampled.csv
+
+Y_resampled.csv
