@@ -1,5 +1,7 @@
 # PBD
 
+- Just a simple sentiment analisys 
+
 - Download the data from here https://www.kaggle.com/datasets/hossaingh/udemy-courses
 
 - Add Comments.csv and Course_info.csv to the rood dir
