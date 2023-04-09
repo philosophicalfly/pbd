@@ -39,3 +39,10 @@ To stop the Jupyter notebook server, simply press Ctrl + C in the terminal.
 Remember to activate the virtual environment every time you want to use Jupyter notebook. To do this, simply run the following command:
 
 ```source myenv/bin/activate```
+
+## Starting MongoDB Compass on MacOS
+
+1. Download it from here https://www.mongodb.com/try/download/compass.
+2. Install the .dmg file.
+3. Open the app and create a new connection.
+4. Copy and paste the connection string to the Notebook at line 2 of the 3rd code box.
